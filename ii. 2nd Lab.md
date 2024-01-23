@@ -5,4 +5,5 @@
 - If no DHCP server on the ISP end
     - `IP` > `Address` > `+` > `IP/CIDR` > Select `Interface`
     - `IP` > `Route` > `+` > `Dst Add` `0.0.0.0/0` and `Gateway` `Router IP`
-
+- Create a `Bridge` with the other ethenets.
+- Assign the address range IP/subnet on the `Bridge`
