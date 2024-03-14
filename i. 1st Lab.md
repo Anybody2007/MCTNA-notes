@@ -1,9 +1,9 @@
 ## Change the hostname of the router
-
-    ```bash
-    system identity set name=R2
-    ```
-
+<details>
+```bash
+system identity set name=R2
+```
+</details>
 ## Command Line
 
 ### CLI command Color
@@ -13,7 +13,7 @@
 ### CLI helper
 There are two options - `Tab` for auto complete suggestions
 
-                        `Shift+?` for getting massive help
+`Shift+?` for getting massive help
 
 To go to the previous directory use `..`
 
